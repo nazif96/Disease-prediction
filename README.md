@@ -2,7 +2,7 @@
 
 ## Contexte 
 
-Réaliser un projet avec de Machine learning avec Pyspark c'est à dire de mettre en place un modèle qui va permettre de réaliser des prdictions.
+Réaliser un projet avec de Machine learning avec Pyspark c'est à dire de mettre en place un modèle qui va permettre de réaliser des prédictions.
 
 ## 🎯 Objectif 
 L’objectif de ce projet est de prédire la présence d’une maladie cardiovasculaire à partir de variables cliniques et biologiques, à l’aide de données médicales de patients.
@@ -25,7 +25,7 @@ L’usage de ces variables permet d’aider à la décision médicale préventiv
  Ces différences renforcent la pertinence de ces variables pour la modélisation
 
 ### Machine Learning
-Après  préparation des données et entraînement d’un modèle de classification (régression logistique , voici les principaux résultats obtenus sur les données de test :
+Après préparation des données et entraînement d’un modèle de classification (régression logistique , voici les principaux résultats obtenus sur les données de test :
 
 
 ✅ Performances globales du modèle **régression logistique**
@@ -57,9 +57,6 @@ Le recall de 83.72 % indique qu’il détecte correctement la majorité des pati
 La précision élevée permet de limiter les faux positifs, donc d’éviter de diagnostiquer à tort des patients sains.
 
 Le F1-score confirme un bon compromis entre précision et rappel.
-
-- sauvegarde du modèle
-  
 
 
 ## 👨‍💻 Auteurs 
